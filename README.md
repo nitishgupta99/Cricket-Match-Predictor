@@ -96,3 +96,6 @@ An output directory containing 6 .csv files containing batting and bowling stati
 
 ## Credits
 **Lakshay Sethi , Josie Buter , Pouya Jamali**
+
+## Inspiration
+** Abhinav Sagar's Article
