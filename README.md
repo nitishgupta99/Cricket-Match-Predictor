@@ -95,7 +95,7 @@ An output directory containing 6 .csv files containing batting and bowling stati
 - [Python](https://www.python.org/)
 
 ## Credits
-**Lakshay Sethi , Josie Buter , Pouya Jamali**
+**Lakshay Sethi , Josie Buter , Pouya Jamali, Nitish Gupta**
 
 ## Inspiration
 ** Abhinav Sagar's Article
